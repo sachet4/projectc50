@@ -1,0 +1,23 @@
+h1 {
+    color: brown
+}
+
+/*{
+    border: solid;
+}*/
+
+.header{
+    background-color: cadetblue;
+    display : flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h2,h3{
+    text-align: center;
+}
